@@ -1,0 +1,1252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Report
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 0
+    buildGUID: 00000000000000000000000000000000
+    platformName: 
+    platformGroupName: 
+    subtarget: 0
+    options: 4
+    assetBundleOptions: 0
+    outputPath: /Users/sebastianlague/Desktop/Build.app
+    crc: 0
+    totalSize: 48430303
+    totalTimeTicks: 0
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 1
+    buildResult: 0
+  m_Files:
+  - path: /Build.app/Contents/Resources/Data/Managed/Assembly-CSharp-firstpass.dll
+    role: ManagedLibrary
+    id: 0
+    totalSize: 9728
+  - path: /Build.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll
+    role: ManagedLibrary
+    id: 1
+    totalSize: 19456
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    role: ManagedLibrary
+    id: 2
+    totalSize: 242688
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll
+    role: ManagedLibrary
+    id: 3
+    totalSize: 251392
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.PlaymodeTestsRunner.dll
+    role: ManagedLibrary
+    id: 4
+    totalSize: 30208
+  - path: /Build.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    role: DependentManagedLibrary
+    id: 5
+    totalSize: 293376
+  - path: /Build.app/Contents/Resources/Data/Managed/System.Core.dll
+    role: DependentManagedLibrary
+    id: 6
+    totalSize: 265728
+  - path: /Build.app/Contents/Resources/Data/Managed/System.dll
+    role: DependentManagedLibrary
+    id: 7
+    totalSize: 1069056
+  - path: /Build.app/Contents/Resources/Data/Managed/mscorlib.dll
+    role: DependentManagedLibrary
+    id: 8
+    totalSize: 2497024
+  - path: /Build.app/Contents/Resources/Data/level0
+    role: Scene
+    id: 9
+    totalSize: 2515412
+  - path: /Build.app/Contents/Resources/Data/globalgamemanagers.assets
+    role: SharedAssets
+    id: 10
+    totalSize: 27448
+  - path: /Build.app/Contents/Resources/Data/sharedassets0.assets
+    role: SharedAssets
+    id: 11
+    totalSize: 4379736
+  - path: /Build.app/Contents/MacOS/Build
+    role: Executable
+    id: 12
+    totalSize: 28118080
+  - path: /Build.app/Contents/Data/Managed/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+    role: 
+    id: 13
+    totalSize: 58196
+  - path: /Build.app/Contents/Data/Managed/etc/mono/1.0/machine.config
+    role: 
+    id: 14
+    totalSize: 17258
+  - path: /Build.app/Contents/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+    role: 
+    id: 15
+    totalSize: 1605
+  - path: /Build.app/Contents/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    role: 
+    id: 16
+    totalSize: 60453
+  - path: /Build.app/Contents/Data/Managed/etc/mono/2.0/machine.config
+    role: 
+    id: 17
+    totalSize: 27625
+  - path: /Build.app/Contents/Data/Managed/etc/mono/2.0/settings.map
+    role: 
+    id: 18
+    totalSize: 2618
+  - path: /Build.app/Contents/Data/Managed/etc/mono/2.0/web.config
+    role: 
+    id: 19
+    totalSize: 11686
+  - path: /Build.app/Contents/Data/Managed/etc/mono/browscap.ini
+    role: 
+    id: 20
+    totalSize: 311984
+  - path: /Build.app/Contents/Data/Managed/etc/mono/config
+    role: 
+    id: 21
+    totalSize: 1691
+  - path: /Build.app/Contents/Data/Managed/etc/mono/mconfig/config.xml
+    role: 
+    id: 22
+    totalSize: 25817
+  - path: /Build.app/Contents/Frameworks/MonoEmbedRuntime/osx/libmono.0.dylib
+    role: 
+    id: 23
+    totalSize: 2776748
+  - path: /Build.app/Contents/Frameworks/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib
+    role: 
+    id: 24
+    totalSize: 296932
+  - path: /Build.app/Contents/Info.plist
+    role: 
+    id: 25
+    totalSize: 1150
+  - path: /Build.app/Contents/Resources/Ageia.tif
+    role: 
+    id: 26
+    totalSize: 20908
+  - path: /Build.app/Contents/Resources/Data/globalgamemanagers
+    role: 
+    id: 27
+    totalSize: 23556
+  - path: /Build.app/Contents/Resources/Data/level0.resS
+    role: 
+    id: 28
+    totalSize: 131232
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    role: 
+    id: 29
+    totalSize: 1205760
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.dll.mdb
+    role: 
+    id: 30
+    totalSize: 419920
+  - path: /Build.app/Contents/Resources/Data/Managed/UnityEngine.xml
+    role: 
+    id: 31
+    totalSize: 2259589
+  - path: /Build.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    role: 
+    id: 32
+    totalSize: 301488
+  - path: /Build.app/Contents/Resources/DefaultPreferences.plist
+    role: 
+    id: 33
+    totalSize: 300
+  - path: /Build.app/Contents/Resources/KeyConfig.nib/classes.nib
+    role: 
+    id: 34
+    totalSize: 309
+  - path: /Build.app/Contents/Resources/KeyConfig.nib/info.nib
+    role: 
+    id: 35
+    totalSize: 450
+  - path: /Build.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
+    role: 
+    id: 36
+    totalSize: 3934
+  - path: /Build.app/Contents/Resources/MainMenu.nib/classes.nib
+    role: 
+    id: 37
+    totalSize: 787
+  - path: /Build.app/Contents/Resources/MainMenu.nib/info.nib
+    role: 
+    id: 38
+    totalSize: 622
+  - path: /Build.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    role: 
+    id: 39
+    totalSize: 10428
+  - path: /Build.app/Contents/Resources/Mono.tif
+    role: 
+    id: 40
+    totalSize: 22702
+  - path: /Build.app/Contents/Resources/ScreenSelector.nib/classes.nib
+    role: 
+    id: 41
+    totalSize: 1299
+  - path: /Build.app/Contents/Resources/ScreenSelector.nib/info.nib
+    role: 
+    id: 42
+    totalSize: 471
+  - path: /Build.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib
+    role: 
+    id: 43
+    totalSize: 17556
+  - path: /Build.app/Contents/Resources/unity default resources
+    role: 
+    id: 44
+    totalSize: 691500
+  - path: /Build.app/Contents/Resources/UnityPlayerIcon.png
+    role: 
+    id: 45
+    totalSize: 4397
+  m_BuildSteps:
+  - stepName: Build started
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Building scene Assets/Scenes/Scene.unity
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Build resources folder
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Build mainData file
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Writing files
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 0
+    depth: 0
+    messages: []
+  - stepName: Build completed
+    durationTicks: 0
+    depth: 0
+    messages: []
+  m_Appendices:
+  - {fileID: 1126509429621997020}
+  - {fileID: 1126807768441493650}
+--- !u!1126 &1126509429621997020
+PackedAssets:
+  m_ShortPath: globalgamemanagers.assets
+  m_Overhead: 5089
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 324
+    offset: 0
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 148
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 3
+    classID: 48
+    packedSize: 6104
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 5
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 6
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 7
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 8
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 9
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 10
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 11
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 12
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 13
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 14
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 15
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 16
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 17
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 18
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 19
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 20
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 21
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 22
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 23
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 24
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 25
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 26
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 27
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 28
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 29
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 30
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 31
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 32
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 33
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 34
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 35
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 36
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+  - fileID: 37
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 38
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 39
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 40
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 41
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 42
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 43
+    classID: 115
+    packedSize: 145
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 44
+    classID: 115
+    packedSize: 145
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 45
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 46
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 47
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 48
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 49
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 50
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 51
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: 8e0cd8ed44d4412cbe0642067abc9e44
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll
+  - fileID: 52
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 53
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 54
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 55
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 56
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 57
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 58
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 59
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 60
+    classID: 115
+    packedSize: 153
+    offset: 0
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+  - fileID: 61
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 62
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 63
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 64
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 65
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 66
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 67
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 68
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 69
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: 16ce6ecc4242344ccb4045ed364cbcc0
+    buildTimeAssetPath: Assets/Scripts/EndlessTerrain.cs
+  - fileID: 70
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: 24bba47da550c4e86a3c8ae5cf2e264d
+    buildTimeAssetPath: Assets/Scripts/Data/TextureData.cs
+  - fileID: 71
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 37e60a97f2c87ae41b6cdc1055d78cb9
+    buildTimeAssetPath: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+  - fileID: 72
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: 4aeb0f3a8e031433495f2ddd66acbef4
+    buildTimeAssetPath: Assets/Scripts/MapDisplay.cs
+  - fileID: 73
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: 616cf27add49146ab8c3c372774d402b
+    buildTimeAssetPath: Assets/Scripts/Data/UpdatableData.cs
+  - fileID: 74
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: 7712ca4b498404cc5931aea5ebc20f51
+    buildTimeAssetPath: Assets/Scripts/HideOnPlay.cs
+  - fileID: 75
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: 7939d15f4beb24a65bc949a0e3c02d5e
+    buildTimeAssetPath: Assets/Scripts/MeshGenerator.cs
+  - fileID: 76
+    classID: 115
+    packedSize: 177
+    offset: 0
+    sourceAssetGUID: 81c9795a96c094f4cbde4d65546aa9b2
+    buildTimeAssetPath: Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+  - fileID: 77
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: 916b4f4143ed7456294aa19afa97bde8
+    buildTimeAssetPath: Assets/Scripts/MapGenerator.cs
+  - fileID: 78
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: 94ecc0bec425d4c9a94a55c7bc8f1fea
+    buildTimeAssetPath: Assets/Scripts/FalloffGenerator.cs
+  - fileID: 79
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: c4bed387465ae4ca48177143a455d1a8
+    buildTimeAssetPath: Assets/Scripts/Data/TerrainData.cs
+  - fileID: 80
+    classID: 115
+    packedSize: 73
+    offset: 0
+    sourceAssetGUID: d4ed0d0ddb42c4af290db1cea4b1264f
+    buildTimeAssetPath: Assets/Scripts/Noise.cs
+  - fileID: 81
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: df7acc444474841759c3b95c7ef6d1c3
+    buildTimeAssetPath: Assets/Scripts/TextureGenerator.cs
+  - fileID: 82
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: fed09c6d65c454ce3a8d30092741aba8
+    buildTimeAssetPath: Assets/Scripts/Data/NoiseData.cs
+  - fileID: 83
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 852e56802eb941638acbb491814497b0
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+  - fileID: 84
+    classID: 115
+    packedSize: 153
+    offset: 0
+    sourceAssetGUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+  - fileID: 85
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 86
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 87
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 88
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 89
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 90
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 91
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 92
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 93
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 94
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 95
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 96
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 97
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 98
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 99
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 100
+    classID: 115
+    packedSize: 81
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 101
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 102
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 103
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 104
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 105
+    classID: 115
+    packedSize: 125
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 106
+    classID: 115
+    packedSize: 125
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 107
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 108
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 109
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 110
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 111
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 112
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 113
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 114
+    classID: 115
+    packedSize: 137
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 115
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 116
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 117
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 118
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 119
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 120
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 121
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 122
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 123
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 124
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 125
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 739bbd9f364b4268874f9fd86ab3beef
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll
+  - fileID: 126
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 127
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 128
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: 870353891bb340e2b2a9c8707e7419ba
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+  - fileID: 129
+    classID: 115
+    packedSize: 121
+    offset: 0
+    sourceAssetGUID: dc443db3e92b4983b9738c1131f555cb
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll
+  - fileID: 130
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 131
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 132
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 133
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 134
+    classID: 115
+    packedSize: 129
+    offset: 0
+    sourceAssetGUID: 739bbd9f364b4268874f9fd86ab3beef
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll
+  - fileID: 135
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 136
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 137
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 138
+    classID: 115
+    packedSize: 105
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 139
+    classID: 115
+    packedSize: 117
+    offset: 0
+    sourceAssetGUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+  - fileID: 140
+    classID: 115
+    packedSize: 117
+    offset: 0
+    sourceAssetGUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll
+  - fileID: 141
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 142
+    classID: 115
+    packedSize: 97
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 143
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 144
+    classID: 115
+    packedSize: 113
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+  - fileID: 145
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f5f67c52d1564df4a8936ccd202a3bd8
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+  - fileID: 146
+    classID: 115
+    packedSize: 89
+    offset: 0
+    sourceAssetGUID: f70555f144d8491a825f0804e09c671c
+    buildTimeAssetPath: /Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll
+--- !u!1126 &1126807768441493650
+PackedAssets:
+  m_ShortPath: sharedassets0.assets
+  m_Overhead: 4132
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 180
+    offset: 0
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 21
+    packedSize: 1088
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 3
+    classID: 21
+    packedSize: 216
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 21
+    packedSize: 400
+    offset: 0
+    sourceAssetGUID: 8361772db5b074f13a47ece154898939
+    buildTimeAssetPath: Assets/Materials/Map Mat.mat
+  - fileID: 5
+    classID: 21
+    packedSize: 608
+    offset: 0
+    sourceAssetGUID: b0872f84cf3c7441d893168677410c73
+    buildTimeAssetPath: Assets/Materials/Mesh Mat.mat
+  - fileID: 6
+    classID: 28
+    packedSize: 699132
+    offset: 0
+    sourceAssetGUID: 22da49d227e55449d9ab0dbc09fe7f46
+    buildTimeAssetPath: Assets/Textures/Snow.png
+  - fileID: 7
+    classID: 28
+    packedSize: 699136
+    offset: 0
+    sourceAssetGUID: 37ad0d4d757814f44ba3bc82d824e4fa
+    buildTimeAssetPath: Assets/Textures/Rocks 1.png
+  - fileID: 8
+    classID: 28
+    packedSize: 699140
+    offset: 0
+    sourceAssetGUID: 4d29d513ad3914f329ec976bbc4c5519
+    buildTimeAssetPath: Assets/Textures/Stony ground.png
+  - fileID: 9
+    classID: 28
+    packedSize: 699140
+    offset: 0
+    sourceAssetGUID: 78c40a2f18561480eab11b27ad5713aa
+    buildTimeAssetPath: Assets/Textures/Sandy grass.png
+  - fileID: 10
+    classID: 28
+    packedSize: 699136
+    offset: 0
+    sourceAssetGUID: db243d2611d444037835ecd4af49e9b9
+    buildTimeAssetPath: Assets/Textures/Water.png
+  - fileID: 11
+    classID: 28
+    packedSize: 699136
+    offset: 0
+    sourceAssetGUID: e36d15b65ccd248c19a846616a6767f9
+    buildTimeAssetPath: Assets/Textures/Grass.png
+  - fileID: 12
+    classID: 48
+    packedSize: 108096
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 13
+    classID: 48
+    packedSize: 11072
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 14
+    classID: 48
+    packedSize: 3828
+    offset: 0
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 15
+    classID: 48
+    packedSize: 54724
+    offset: 0
+    sourceAssetGUID: e9c611933fe9745ebbd2c506d7711c71
+    buildTimeAssetPath: Assets/Scripts/Terrain.shader
+  - fileID: 16
+    classID: 134
+    packedSize: 36
+    offset: 0
+    sourceAssetGUID: c2815a7ab32e42c4bb42f59caacb8ec1
+    buildTimeAssetPath: Assets/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial
+  - fileID: 17
+    classID: 114
+    packedSize: 84
+    offset: 0
+    sourceAssetGUID: 53b39982076564ca8bcb4145ee12221f
+    buildTimeAssetPath: Assets/Terrain Assets/Default Noise.asset
+  - fileID: 18
+    classID: 114
+    packedSize: 132
+    offset: 0
+    sourceAssetGUID: b27b01fde31d84e0c824f649d30eec2d
+    buildTimeAssetPath: Assets/Terrain Assets/Default Terrain.asset
+  - fileID: 19
+    classID: 114
+    packedSize: 320
+    offset: 0
+    sourceAssetGUID: addd6b0c4581e4f73b0395a4943b9f57
+    buildTimeAssetPath: Assets/Terrain Assets/Default Texture.asset
